@@ -1,3 +1,5 @@
+Because redash has not made a offical release since 2021, we forked this repo to pin our image and to support arm64 builds
+
 <p align="center">
   <img title="Redash" src='https://redash.io/assets/images/logo.png' width="200px"/>
 </p>
